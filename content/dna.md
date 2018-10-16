@@ -16,6 +16,7 @@ wdwed
 SORRY I MESSED UP.
 
 commit_exercise! 
+stashing  exercise
 
 DNA is a molecule
 composed of two chains (made of nucleotides) that coil around each other to form a double helix carrying
