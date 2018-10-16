@@ -1,5 +1,7 @@
 ## Deoxyribonucleic acid (DNA)
 
+SORRY I MESSED UP.
+
 DNA is a molecule
 composed of two chains (made of nucleotides) that coil around each other to form a double helix carrying
 the genetic instructions used in the growth, development, functioning and reproduction of all known living
