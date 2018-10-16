@@ -1,4 +1,17 @@
 ## Deoxyribonucleic acid (DNA)
+a
+b
+c
+d
+
+wdwed
+wedwed
+
+w
+edwed
+
+
+wdwed
 
 SORRY I MESSED UP.
 
@@ -10,6 +23,14 @@ the genetic instructions used in the growth, development, functioning and reprod
 organisms and many viruses. DNA and ribonucleic acid (RNA) are nucleic acids; alongside proteins, lipids
 and complex carbohydrates (polysaccharides), nucleic acids are one of the four major types of
 macromolecules that are essential for all known forms of life.
+
+
+ed
+
+ewdd
+
+dwed
+wed
 
 The two DNA strands are also known as polynucleotides since they are composed of simpler monomeric units
 called nucleotides.[2][3] Each nucleotide is composed of one of four nitrogen-containing nucleobases
